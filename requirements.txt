@@ -1,0 +1,2 @@
+C:\Users\Admin\PycharmProjects\music\venv\bin\activate.bat
+pip install cv2
